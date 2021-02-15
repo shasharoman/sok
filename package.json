@@ -1,6 +1,6 @@
 {
     "name": "sok",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "description": "socket wrapper",
     "main": "index.js",
     "directories": {
@@ -28,7 +28,7 @@
     "homepage": "https://github.com/shasharoman/sok#readme",
     "dependencies": {
         "debug": "4.1.1",
-        "amp": "https://github.com:shasharoman/amp.git#v1.0.0"
+        "amp": "https://github.com:shasharoman/amp.git#v1.1.0"
     },
     "devDependencies": {
         "chai": "4.2.0",
