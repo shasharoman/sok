@@ -27,7 +27,7 @@
     },
     "homepage": "https://github.com/shasharoman/sok#readme",
     "dependencies": {
-        "debug": "4.1.1",
+        "debug": "4.3.1",
         "@shasharoman/amp": "1.1.1"
     },
     "devDependencies": {
